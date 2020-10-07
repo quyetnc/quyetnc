@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Quyết (NickName: 😄)
 
-I’m currently learning and working about Front-End developer
+I’m currently learning and working about Mobile developer
 
 
 ### Programing Language 
