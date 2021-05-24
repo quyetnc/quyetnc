@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Quyết (NickName: 😄)
 
-I’m currently learning and working about Mobile developer
+I’m currently learning and working about Full-Stack developer
 
 
 ### Programing Language 
